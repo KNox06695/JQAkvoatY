@@ -18,7 +18,6 @@ project {
     "ui/packages/consul-ui/app/components/brand-loader/index.hbs",
 
     # ignore specific test data files
-    "agent/uiserver/testdata/**",
     "internal/resourcehcl/testdata/**",
 
     # generated files 
