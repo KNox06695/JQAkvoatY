@@ -114,7 +114,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Security
 
-- Upgraded follow-redirects to v1.15.6 for vulnerability CVE-2024-28849
 - Upgraded braces to v3.0.3 for vulnerability CVE-2024-4068
 
 ### Removed
